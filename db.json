@@ -1,0 +1,20 @@
+{
+  "formData": [
+    {
+      "fname": "Omair",
+      "lname": "alam",
+      "gender": "female",
+      "isChecked": true,
+      "carBrand": "BMW",
+      "id": 1
+    },
+    {
+      "fname": "Arbaz",
+      "lname": "Khan",
+      "gender": "male",
+      "isChecked": false,
+      "carBrand": "Maruti",
+      "id": 2
+    }
+  ]
+}
